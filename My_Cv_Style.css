@@ -1,0 +1,59 @@
+.info_setup{
+    background-color: #36486b;
+    height: 180px;
+    width: 100%;
+}
+
+.Portrait_Photo_Setup{
+    border-radius: 50%;
+    width:240px;
+    display: inline;
+    float:right;
+    margin-right: 40px;
+    padding: 30px 50px;
+    height: 180px;
+}
+
+.name_setup{
+    padding: 30px 50px 0px;
+    color:white;
+}
+
+.icon.fab {
+    padding-top: 500px;
+    padding-left: 50px;
+    padding-right: 5px;
+    display: inline;
+    margin-right: 10px;
+    color:white;
+}
+
+.icon.fas {
+    padding-top: 500px;
+    padding-left: 50px;
+    padding-right: 5px;
+    display: inline;
+    margin-right: 10px;
+    color:white;
+}
+
+.icon.fab.fa-github{
+    margin-left: 40px;
+}
+
+.center-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.col-md-6 p {
+    margin-top: -5px;
+    margin-bottom: 0px;
+}
+
+.col-md-6 ul {
+    padding-left:15px;
+}
